@@ -11,6 +11,10 @@ namespace ConsoleApp1
             Console.Write("This is a test of a new revolution!!!");
 
             Console.Read();
+
+            Console.WriteLine("this is a test of a new generation");
+
+            Console.ReadLine();
         }
     }
 }
