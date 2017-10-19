@@ -15,6 +15,8 @@ namespace ConsoleApp1
             Console.WriteLine("this is a test of a new generation");
 
             Console.ReadLine();
+
+            Console.Write("dang!");
         }
     }
 }
